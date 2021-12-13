@@ -1,0 +1,12 @@
+.Topbar {
+  background-color: black;
+  color: aliceblue;
+  padding: 12px 24px;
+  text-align: center;
+  font-size: 22px;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
